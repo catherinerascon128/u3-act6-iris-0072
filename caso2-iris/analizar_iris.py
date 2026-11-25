@@ -2,6 +2,7 @@
 # CASO 2: IDENTIFICACIÓN DE PROBLEMAS (SIMULADOS)
 # DATASET: IRIS
 # ==========================================
+# catherine rascon NC = 0072
 import pandas as pd
 import numpy as np
 import os
@@ -82,3 +83,4 @@ df_corregido["sepal_length"] = df_corregido["sepal_length"].fillna(df_corregido[
 df_corregido.to_csv("resultados/iris_revisado.csv", index=False)
 print("✅ Dataset corregido guardado en 'resultados/iris_revisado.csv'")
 print("\n🎉 ¡Análisis del Caso 2 completado con éxito!")
+print("catherine rascon NC = 0072")
