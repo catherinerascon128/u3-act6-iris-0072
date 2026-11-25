@@ -1,4 +1,5 @@
-# 4. Caso 2: Identificación de problemas (Flores Iris)
+# 🌸 4. Caso 2: Identificación de problemas (Flores Iris)
+![alt text](image-3.png)
 
 ## DIMENSIONES TRAS 'ENSUCIAR'
 ![alt text](image.png)
